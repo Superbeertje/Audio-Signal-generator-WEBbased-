@@ -14,4 +14,5 @@ change wave,
 change fft or wave view,
 mark freq
 
-![image](https://github.com/user-attachments/assets/49315684-04ba-42c8-90cb-1864948da897)
+![image](https://github.com/user-attachments/assets/19ea9b41-5cd8-4721-9971-599a65dac229)
+![image](https://github.com/user-attachments/assets/b2baeb58-5845-4e6f-a301-f44ac2f44171)
