@@ -1,13 +1,13 @@
 # Audio-Signal-generator-WEBbased-
 Multi signal wave gen
 
-GUI v1:
+WebAudio-Signal-Generator- webbased
 
 
 ![{2CB2B418-98A9-4A46-9AC7-0093D25EFA4F}](https://github.com/user-attachments/assets/a98cdcb5-f9ab-468e-a513-4083caec8e10)
 
 
-GUI v2
+WebAudio-Signal-Generator- advanced
 Added:
 Toggle darkmode,
 change wave,
